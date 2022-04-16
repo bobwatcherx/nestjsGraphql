@@ -1,0 +1,25 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Author {
+  id: String
+  firstName: String
+  lastName: String
+}
+
+type Pagi {
+  post: [Author!]!
+}
+
+type Query {
+  hello: Pagi!
+}
+
+type Mutation {
+  addnewpost(firstName: String!, lastName: String!): Author!
+}
+
+type Subscription {
+  subauthor: Pagi!
+}
