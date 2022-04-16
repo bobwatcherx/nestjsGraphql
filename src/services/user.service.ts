@@ -7,6 +7,7 @@ const datakar = [
   {id:"1",firstName:"jono",lastName:"bekasi"},
 ]
 // DKNWKWNKK
+// makanan enak
 @Injectable()
 export class Userservices{
   constructor(){}
