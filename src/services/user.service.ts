@@ -6,8 +6,7 @@ const datakar = [
   {id:"1",firstName:"jono",lastName:"bekasi"},
   {id:"1",firstName:"jono",lastName:"bekasi"},
 ]
-// let datakar = []
-// let BEGO
+// DKNWKWNKK
 @Injectable()
 export class Userservices{
   constructor(){}
