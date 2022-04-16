@@ -6,8 +6,8 @@ const datakar = [
   {id:"1",firstName:"jono",lastName:"bekasi"},
   {id:"1",firstName:"jono",lastName:"bekasi"},
 ]
-// DKNWKWNKK
-// makanan enak
+// GOBLOK
+// /MAKNAKNKNKA
 @Injectable()
 export class Userservices{
   constructor(){}
